@@ -1,0 +1,10 @@
+{
+    "vetur.completion.scaffoldSnippetSources": {
+
+       
+        "workspace": "💼",
+        "user": "🗒️",
+        "vetur": "✌"
+    },
+    "vetur.experimental.templateInterpolationService": false
+}
